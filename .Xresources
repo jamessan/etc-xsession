@@ -1,0 +1,24 @@
+*vt100.background: black
+*vt100.bellIsUrgent: true
+*vt100.combiningChars: 4
+*vt100.cutNewline: true
+*vt100.font: -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+*vt100.foreground: grey
+*vt100.keepSelection: true
+*vt100.locale: true
+*vt100.metaSendsEscape: true
+*vt100.on2Clicks: regex [^/@ \n]+
+*vt100.on3Clicks: regex [^ <>\n]+
+*vt100.on4Clicks: regex [^#$%]+
+*vt100.on5Clicks: line
+UXTerm*scrollBar: false
+UXTerm*scrollKey: true
+UXTerm*scrollLines: 10000
+UXTerm*scrollTtyOutput: false
+UXTerm*sessionMgt: false
+UXTerm*showMissingGlyphs: true
+UXTerm*termName: xterm-256color
+*.vt100.translations: #override \
+    Meta<Btn1Up>: exec-formatted("x-www-browser '%t'", PRIMARY) \n\
+    Meta<Key>/: dabbrev-expand()
+UXTerm*visualBell: true
