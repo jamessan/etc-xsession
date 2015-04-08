@@ -1,4 +1,11 @@
 *
+!/.config
+!/.config/pangoterm.cfg
+!/.gitignore.d
+!/.gitignore.d/xsession
+!/.local
+!/.local/share
+!/.local/share/applications
 !/.local/share/applications/defaults.list
 !/.Xresources
 !/.xscreensaver
