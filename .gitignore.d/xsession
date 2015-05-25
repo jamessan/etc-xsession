@@ -1,5 +1,8 @@
 *
 !/.config
+!/.config/autostart
+!/.config/autostart/pasystray.desktop
+!/.config/autostart/redshift-gtk.desktop
 !/.config/pangoterm.cfg
 !/.gitignore.d
 !/.gitignore.d/xsession
