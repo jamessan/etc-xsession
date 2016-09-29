@@ -2,7 +2,8 @@
 !/.config
 !/.config/autostart
 !/.config/autostart/pasystray.desktop
-!/.config/autostart/redshift-gtk.desktop
+!/.config/fontconfig
+!/.config/fontconfig/fonts.conf
 !/.config/pangoterm.cfg
 !/.gitignore.d
 !/.gitignore.d/xsession
