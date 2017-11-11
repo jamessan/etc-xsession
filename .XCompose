@@ -2,3 +2,5 @@ include "%L"
 <Multi_key> <1> <apostrophe> : "′" U2032 # PRIME
 <Multi_key> <2> <apostrophe> : "″" U2033 # DOUBLE PRIME
 <Multi_key> <3> <apostrophe> : "‴" U2034 # TRIPLE PRIME
+<Multi_key> <backslash> <slash> : "✓" U2713 # CHECK MARK
+<Multi_key> <less> <greater> : "↔" U2194 # LEFT RIGHT ARROW
