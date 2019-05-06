@@ -4,6 +4,8 @@
 !/.config/autostart/pasystray.desktop
 !/.config/fontconfig
 !/.config/fontconfig/fonts.conf
+!/.config/kitty
+!/.config/kitty/kitty.conf
 !/.config/pangoterm.cfg
 !/.gitignore.d
 !/.gitignore.d/xsession
