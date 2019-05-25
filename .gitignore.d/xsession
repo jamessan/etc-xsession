@@ -2,6 +2,7 @@
 !/.config
 !/.config/autostart
 !/.config/autostart/pasystray.desktop
+!/.config/autostart/xautolock.desktop
 !/.config/fontconfig
 !/.config/fontconfig/fonts.conf
 !/.config/kitty
@@ -15,5 +16,4 @@
 !/.local/share/applications/defaults.list
 !/.XCompose
 !/.Xresources
-!/.xscreensaver
 !/.xsession

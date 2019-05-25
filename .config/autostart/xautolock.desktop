@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+NoDisplay=true
+TryExec=xautolock
+Exec=xautolock -locker "i3lock -c 000000 -f"
+Name=xautolock
+Comment=fire up programs in case of user inactivity under X
+Type=Application
+StartupNotify=false
